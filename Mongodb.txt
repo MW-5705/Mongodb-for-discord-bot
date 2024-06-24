@@ -1,0 +1,2 @@
+download Mongodb community server from https://www.mongodb.com/try/download/community
+install and click on connect
